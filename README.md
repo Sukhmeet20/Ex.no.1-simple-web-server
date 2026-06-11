@@ -125,11 +125,14 @@ public class HelloController {
 
 ### application.properties:
 
- server.port=8081
-
+ 
+```properties
+spring.application.name=simple-web-server
+```
 
 
 
 Output:
 
+<img width="1260" height="653" alt="image" src="https://github.com/user-attachments/assets/2d2d7fca-e8f3-4f48-9f68-a7ac3207c948" />
 
